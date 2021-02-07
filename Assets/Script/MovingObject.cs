@@ -17,4 +17,6 @@ public class MovingObject : MonoBehaviour
         // something's changed 
         // recognize plz 
     }
+
+    // 우리 수성이 괴롭히지 마 깃 허브 짜식들아 
 }
