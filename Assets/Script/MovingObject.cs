@@ -14,7 +14,7 @@ public class MovingObject : MonoBehaviour
     void Update()
     {
         // 나도 사랑해 뿅뿅 훈션 섹스
-        // something's changed 
-        // recognize plz 
+        // something's changed   
+        // recognize plz   
     }
 }
